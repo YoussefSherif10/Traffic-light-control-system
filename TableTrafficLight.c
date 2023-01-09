@@ -2,8 +2,6 @@
 // TableTrafficLight.c for Lab 10
 // Runs on LM4F120/TM4C123
 // Index implementation of a Moore finite state machine to operate a traffic light.  
-// Daniel Valvano, Jonathan Valvano
-// January 15, 2016
 
 // east/west red light connected to PB5
 // east/west yellow light connected to PB4
