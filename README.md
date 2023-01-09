@@ -1,3 +1,2 @@
 # Traffic-light-control-system
- This poject implements an automated traffic light controller which is used at a cross roads when cars can go from east to west, from south to north and people can cross these roads.
-when a sensor of the three sensors senses that cars or people are present they send the info to the microcontroller which goal now is to stop the movement resulted from the other two sensors then allow its own movements.
+This project was created for the LaunchPad TM4C123 kit. It is a state machine that implements an automated traffic light controller that is used at intersections where vehicles can travel from one direction to the other and where pedestrians can cross the street. When one of the three sensors detects the presence of vehicles or people, they communicate this information to the microcontroller, whose objective is to first halt any movement caused by the other two sensors and then permit its own movements.
